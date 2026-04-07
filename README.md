@@ -13,5 +13,6 @@ I write about vibe coding, AI agents, and building software products solo.
 ## Find me
 
 - [X / Twitter](https://x.com/CharlyBr)
-- [LinkedIn](https://linkedin.com/in/charlesMusic)
+- [LinkedIn](https://www.linkedin.com/in/charlesviard)
 - [SiteWatch](https://usesitewatch.com) — Site monitoring for web agencies
+- [PodWatch](https://usepodvault.com) — Podcast monitoring & backup tool
